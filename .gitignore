@@ -1,0 +1,17 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+*.msix
+*.msixbundle
+*.appx
+
+# Visual Studio / user-specific
+.vs/
+*.user
+*.suo
+*.rsuser
+
+# Signing certificates
+*.pfx
+*.p12
+*.snk

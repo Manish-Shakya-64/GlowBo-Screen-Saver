@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>Glowbo</AssemblyName>
+    <RootNamespace>Glowbo</RootNamespace>
+    <ApplicationIcon>glowbo.ico</ApplicationIcon>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <Product>Glowbo</Product>
+    <AssemblyTitle>Glowbo: Cute Face Screensaver</AssemblyTitle>
+    <Description>Glowbo: cute OLED-style face screensaver for Windows</Description>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+</Project>
